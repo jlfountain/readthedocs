@@ -1,6 +1,6 @@
+```
 #!/usr/bin/env python3
 
-```
 # ...initialize looping variable, assume 'yes' as the first answer
 continueYN = "y"
 

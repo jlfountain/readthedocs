@@ -1,3 +1,3 @@
-## Read the Docs
+### Programming Merit Badge Information
 
-Glad you find me.  
+### Communication Merit Badge Information

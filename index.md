@@ -1,3 +1,3 @@
-### Programming Merit Badge Information
+[Programming Merit Badge Information](PROGRAMMING.md)
 
-### Communication Merit Badge Information
+[Communication Merit Badge Information](COMMUNICATION.md)
